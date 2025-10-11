@@ -24,7 +24,7 @@ exports.getResposta = (req, res) => {
 
     perguntaUsuario = removerAcentos(perguntaUsuario.toLowerCase());
 
-    // Procura correspondência normalizando também a pergunta da FAQ
+
     const faq = faqs.find(f => perguntaUsuario.includes(removerAcentos(f.pergunta.toLowerCase())));
 
     if (faq) {
