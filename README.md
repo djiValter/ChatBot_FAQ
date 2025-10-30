@@ -71,7 +71,7 @@ ChatBot_FAQ/
 
    - Faça commit das suas alterações (git commit -m "Descrição da mudança").
 
-   -Envie para o seu fork (git push origin feature-nome).
+   - Envie para o seu fork (git push origin feature-nome).
 
    - Abra um Pull Request no repositório original.
 
