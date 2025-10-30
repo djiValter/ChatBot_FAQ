@@ -27,6 +27,7 @@ ChatBot_FAQ/
 ├── README.md # Documentação do projecto
 └── LICENSE # Licença (se aplicável)
 
+---
 
 ## 💡 Funcionalidades
 
@@ -48,7 +49,7 @@ ChatBot_FAQ/
    npm install             # se for Node.js
    node src/index.js
 
-
+---
 
 ## 🛠️ Personalização & Contribuições
 
@@ -74,7 +75,7 @@ ChatBot_FAQ/
 
    - Abra um Pull Request no repositório original.
 
-
+---
 
 ## 👨‍💻 Autor
 
@@ -82,8 +83,9 @@ ChatBot_FAQ/
   📧 djivalter@gmail.com
   🔗 GitHub
 
+---
 
 📄 Licença
 
-Este projeto é de minha autoria e todos os direitos são reservados.
-Sinta‑se à vontade para explorar e aprender com o código, mas não é permitido uso ou redistribuição sem minha autorização.
+   Este projeto é de minha autoria e todos os direitos são reservados.
+   Sinta‑se à vontade para explorar e aprender com o código, mas não é permitido uso ou redistribuição sem minha autorização.
