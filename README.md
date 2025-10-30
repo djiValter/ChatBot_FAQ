@@ -81,7 +81,7 @@ ChatBot_FAQ/
 
   Valter Viola Muriela
   📧 djivalter@gmail.com
-  🔗 GitHub ("https://github.com/djiValter/ChatBot_FAQ/tree/main")
+  🔗 GitHub - https://github.com/djiValter/ChatBot_FAQ/tree/main
 
 ---
 
