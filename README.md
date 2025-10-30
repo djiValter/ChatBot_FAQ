@@ -50,37 +50,37 @@ ChatBot_FAQ/
 
 
 
-🛠️ Personalização & Contribuições
+## 🛠️ Personalização & Contribuições
 
-- Contribuições são bem‑vindas! Sinta‑se à vontade para:
+   - Contribuições são bem‑vindas! Sinta‑se à vontade para:
 
-- Adicionar mais perguntas e respostas ao dataset
+   - Adicionar mais perguntas e respostas ao dataset
 
-- Melhorar a lógica de correspondência das perguntas
+   - Melhorar a lógica de correspondência das perguntas
 
-- Implementar versões web ou integração com chat em tempo real
+   - Implementar versões web ou integração com chat em tempo real
 
-- Adicionar testes ou cobertura de qualidade
+   - Adicionar testes ou cobertura de qualidade
 
-- Para contribuir:
+   - Para contribuir:
 
-- Faça um fork do repositório.
+   - Faça um fork do repositório.
 
-- Crie um branch com o seu bug/feature (git checkout -b feature-nome).
+   - Crie um branch com o seu bug/feature (git checkout -b feature-nome).
 
-- Faça commit das suas alterações (git commit -m "Descrição da mudança").
+   - Faça commit das suas alterações (git commit -m "Descrição da mudança").
 
--Envie para o seu fork (git push origin feature-nome).
+   -Envie para o seu fork (git push origin feature-nome).
 
-- Abra um Pull Request no repositório original.
+   - Abra um Pull Request no repositório original.
 
 
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-Valter Viola Muriela
-📧 djivalter@gmail.com
-🔗 GitHub
+  Valter Viola Muriela
+  📧 djivalter@gmail.com
+  🔗 GitHub
 
 
 📄 Licença
